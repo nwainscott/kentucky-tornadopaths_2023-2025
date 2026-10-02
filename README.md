@@ -1,5 +1,5 @@
 
-# Project title
+# Kentucky Tornado Paths (2025)
 
 Across the README.md file, please answer the who, what, when, where, why, and how of the map making process
 
@@ -16,6 +16,15 @@ If you wanted to include a table of contents to sections, and then links to each
 ### Data Source
 
 [Link to data source](https://...)
+
+2025 NLCD Landcover
+(https://www.sciencebase.gov/catalog/item/697b9279b66b0197c3043cc3)
+
+FEMA Disaster Resilience Hub - Tornado Tracks 
+(https://resilience-fema.hub.arcgis.com/datasets/e75412d18bdc469dbf89bf7e929475cc/explore?filters=eyJzdCI6WyJLWSJdfQ%3D%3D&location=38.040459%2C-84.617522%2C8&style=dy)
+
+County Boundaries 1:500,000 (national)
+(https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html)
 
 * Initial Data projection: 
 * Final Map projection:
