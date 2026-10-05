@@ -35,21 +35,27 @@
 
 ### Project Background
 
-There has been a notable increase in severe weather events across the U.S. over recent decades. Specifically, I was born and raised in Kentucky and thought it would be interesting to map the tornado paths from 2023-2025. 2026 data was unavailable. 
+In recent decades, there has been a notable increase in severe weather events across the U.S. I was born and raised in Kentucky and thought it would be interesting to map the tornado paths from 2023-2025. 2026 data was unavailable. 
 
 ### Purpose
 
-The purpose of this map is to display tornado paths throughout the state of Kentucky from 2023-2025. I hope the map will help answer the following questions: Are tornados happening in a common location in the state? For example, are more happening in the North, South, Central, East, or West of KY? Is there a primary landcover type where these tornados are happening? Is there a notable difference in length of tornado paths over the years?
+The purpose of this map is to display tornado paths throughout the state of Kentucky from 2023-2025. I hope the map will help answer the following questions: Are tornados happening in a common location in the state? For example, are more happening in the North, South, Central, Eastern, or Western parts of KY? Is there a primary landcover type where these tornados are happening? Is there a notable difference in length of tornado paths over the years?
 
 ### Mapmaking Process
 
-Example of in process map ![in process image](filepath)
+Download the 3 files mentioned in [data-source] (extract any zip files)
 
-You can describe the mapmapking process in this section, including images where it helps to describe the process.
+Open QGIS
 
-Download the 3 files mentioned in (#data-source)
+In the Browser pane, find the folder where you downloaded the files
 
-Open QGIS and 
+Double click on: Annual_NLCD_LndCov_2025_CU_C1V2.tif, then cb_2025_us_county_500k, then Tornado_Tracks_A.shp
+
+Add Tornado_Tracks_A.shp 2 more times for a total of 3 tornado shapefiles. 
+
+Example of in process map ![in process image]("C:\Users\User\OneDrive - University of Kentucky\Pictures\Screenshots\Screenshot 2026-10-05 085919.png")
+
+
 
 You can also use some lists, and here's some formatting ideas.
 
