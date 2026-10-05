@@ -43,7 +43,7 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 ### Mapmaking Process
 
-1. Download the 3 files mentioned in [data-source] (extract any zip files)
+1. Download the 3 files mentioned in [Data Source] (extract any zip files)
 
 2. Open QGIS
 
