@@ -51,11 +51,13 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 4. Double click on: Annual_NLCD_LndCov_2025_CU_C1V2.tif, then cb_2025_us_county_500k, then Tornado_Tracks_A.shp
 
-5. Add Tornado_Tracks_A.shp 2 more times for a total of 3 tornado shapefiles. 
+5. Add Tornado_Tracks_A.shp 2 more times for a total of 3 tornado shapefiles.
+
+6. Right-click on county layer and select Filter. Filter only KY counties by matching the screenshot below.
 
 ![Filter counties for KY](graphics/KYcofilter.png)
 
-
+![Filter counties for KY]()
 
 
 You can also use some lists, and here's some formatting ideas.
