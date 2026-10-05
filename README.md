@@ -53,7 +53,8 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 5. Add Tornado_Tracks_A.shp 2 more times for a total of 3 tornado shapefiles. 
 
-![Filter counties for KY]()
+![Filter counties for KY](graphics/KYcofilter.png)
+
 
 
 
