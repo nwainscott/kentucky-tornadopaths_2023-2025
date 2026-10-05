@@ -57,6 +57,8 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 ![Filter counties for KY](graphics/KYcofilter.png)
 
+7. Right-click on county layer again to Export and Save Feature As...
+
 ![Filter counties for KY]()
 
 
