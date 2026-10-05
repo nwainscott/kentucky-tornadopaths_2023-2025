@@ -53,7 +53,7 @@ Double click on: Annual_NLCD_LndCov_2025_CU_C1V2.tif, then cb_2025_us_county_500
 
 Add Tornado_Tracks_A.shp 2 more times for a total of 3 tornado shapefiles. 
 
-Example of in process map ![in process image]("C:\Users\User\OneDrive - University of Kentucky\Pictures\Screenshots\Screenshot 2026-10-05 085919.png")
+![Filter counties for KY]("C:\Users\User\OneDrive - University of Kentucky\Pictures\Screenshots\Screenshot 2026-10-05 085919.png")
 
 
 
