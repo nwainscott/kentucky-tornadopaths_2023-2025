@@ -43,17 +43,17 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 ### Mapmaking Process
 
-Download the 3 files mentioned in [data-source] (extract any zip files)
+1. Download the 3 files mentioned in [data-source] (extract any zip files)
 
-Open QGIS
+2. Open QGIS
 
-In the Browser pane, find the folder where you downloaded the files
+3. In the Browser pane, find the folder where you downloaded the files
 
-Double click on: Annual_NLCD_LndCov_2025_CU_C1V2.tif, then cb_2025_us_county_500k, then Tornado_Tracks_A.shp
+4. Double click on: Annual_NLCD_LndCov_2025_CU_C1V2.tif, then cb_2025_us_county_500k, then Tornado_Tracks_A.shp
 
-Add Tornado_Tracks_A.shp 2 more times for a total of 3 tornado shapefiles. 
+5. Add Tornado_Tracks_A.shp 2 more times for a total of 3 tornado shapefiles. 
 
-![Filter counties for KY]("C:\Users\User\OneDrive - University of Kentucky\Pictures\Screenshots\Screenshot 2026-10-05 085919.png")
+![Filter counties for KY]("C:\Users\User\OneDrive - University of Kentucky\Documents\GitHub\FinalProject\Screenshot 2026-10-05 085919.png")
 
 
 
