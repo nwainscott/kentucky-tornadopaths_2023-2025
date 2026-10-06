@@ -43,7 +43,7 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 ### Mapmaking Process
 
-1. Download the 2 files mentioned in [Data Source](#data-source) (extract any zip files)
+1. Download the 3 files mentioned in [Data Source](#data-source) (extract any zip files)
 
 2. Open QGIS
 
@@ -73,7 +73,7 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
  11. Now that you have KY counties and tornado paths for (2023-2025) displayed, you can start right-clicking on each layer separately, going to **Properties** then changing the **Symbology** of each layer so that they are visible. I changed the colors of my tornado paths and increased the width of the lines to 0.66. 
 
-![Change symbology](graphics/symbologyex.png)
+![Change symbology]()
 
 
 
