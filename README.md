@@ -47,17 +47,23 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 2. Open QGIS
 
-3. In the Browser pane, find the folder where you downloaded the files
+3. Click on **Project > Properties...** change the **CRS** to EPSG:3089 - NAD83/Kentucky Single Zone (ftUS)
+  
+4. In the Browser pane, find the folder where you downloaded the files
 
-4. Double click on: Annual_NLCD_LndCov_2025_CU_C1V2.tif, then cb_2025_us_county_500k, then Tornado_Tracks_A.shp
+5. To add layers to map, double click on: Annual_NLCD_LndCov_2025_CU_C1V2.tif, then cb_2025_us_county_500k, then Tornado_Tracks_A.shp
 
-5. Add Tornado_Tracks_A.shp 2 more times for a total of 3 tornado shapefiles.
+6. Add Tornado_Tracks_A.shp 2 more times for a total of 3 tornado shapefiles
 
-6. Right-click on county layer and select Filter. Filter only KY counties by matching the screenshot below.
+7. Right-click on county layer and select Filter. Filter only KY counties by following screenshot below
 
 ![Filter counties for KY](graphics/KYcofilter.png)
 
-7. Right-click on county layer again to Export and Save Feature As...
+8. Right-click on county layer again to **Export > Save Feature As...**
+
+ ![Filter counties for KY]()  
+
+9. 
 
 ![Filter counties for KY]()
 
