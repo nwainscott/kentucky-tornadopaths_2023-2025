@@ -61,11 +61,11 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 8. Right-click on county layer again to **Export > Save Feature As...**
 
- ![Filter counties for KY]()  
+ ![Save new layer as GeoJSON](graphics/ExportSaveAs.png)  
 
 9. 
 
-![Filter counties for KY]()
+![Filter tornado paths for KY by year]()
 
 
 You can also use some lists, and here's some formatting ideas.
