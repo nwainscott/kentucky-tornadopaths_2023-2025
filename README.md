@@ -63,7 +63,7 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
  ![Save new layer as GeoJSON](graphics/ExportSaveAs.png)  
 
-9. Right-click on *Tornado_Tracks_A,shp* and select **Filter**. Follow the screenshot below to filter tornado paths for KY by each year (2023, 2024, & 2025), that's why we added duplicate *Tornado_Track_A.shp*
+9. Right-click on *Tornado_Tracks_A.shp* and select **Filter**. Follow the screenshot below to filter tornado paths for KY by each year (2023, 2024, & 2025), that's why we added duplicate *Tornado_Track_A.shp*
 
 ![Filter tornado paths for KY by year](graphics/KYtorYRfilter.png)
 
