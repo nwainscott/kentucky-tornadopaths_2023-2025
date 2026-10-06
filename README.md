@@ -14,12 +14,12 @@
 
 ### Data Source
 
-- Tornado Tracks 
+- **Tornado Tracks** 
   (https://resilience-fema.hub.arcgis.com/datasets/e75412d18bdc469dbf89bf7e929475cc/explore?filters=eyJzdCI6WyJLWSJdfQ%3D%3D&location=38.040459%2C-84.617522%2C8&style=dy)
 
   Find the Filter Data button in the blue toolbar on the screen, filter for State Abbreviation Code (KY), click the download button from the same toolbar, download the Geopackage
 
-- County Boundaries
+- **County Boundaries**
   (https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html)
 
   Scroll down to Counties, download the shapfile named 1:500,000 (national)
@@ -66,7 +66,8 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
  ![Save new layer(s) as GeoJSON](graphics/SaveAs.png) 
 
- 11. 
+ 11. Now that you have KY counties and tornado paths for (2023-2025) displayed, you can start right-clicking on each layer separately, going to **Properties** then **Symbology**.
+ 12. 
 
 ### Map summary
 
