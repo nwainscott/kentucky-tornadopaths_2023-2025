@@ -67,7 +67,7 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 ![Filter tornado paths for KY by year](graphics/KYtorYRfilter.png)
 
-10. Right-click on each *Tornado_Track_A.shp* to **Export > Save Feature As...**
+10. Right-click on each *Tornado_Track_A.shp* to **Export > Save Feature As...** In order to upload the tornado GeoJSON's to Mapbox later, we need to save as EPSG:4326-WGS 84
 
  ![Save new layer(s) as GeoJSON](graphics/SaveAs.png) 
 
