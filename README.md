@@ -51,29 +51,22 @@ The purpose of this map is to display tornado paths throughout the state of Kent
   
 4. In the Browser pane, find the folder where you downloaded the files
 
-5. To add layers to map, double click on: Annual_NLCD_LndCov_2025_CU_C1V2.tif, then cb_2025_us_county_500k, then Tornado_Tracks_A.shp
+5. To add layers to map, double click on: *Annual_NLCD_LndCov_2025_CU_C1V2.tif*, then *cb_2025_us_county_500k.shp*, then *Tornado_Tracks_A.shp*
 
-6. Add Tornado_Tracks_A.shp 2 more times for a total of 3 tornado shapefiles
+6. Add *Tornado_Tracks_A.shp* 2 more times for a total of 3 tornado shapefiles
 
-7. Right-click on county layer and select Filter. Filter only KY counties by following screenshot below
+7. Right-click on *cb_2025_us_county_500k.shp* and select **Filter**. Filter only KY counties by following screenshot below
 
 ![Filter counties for KY](graphics/KYcofilter.png)
 
-8. Right-click on county layer again to **Export > Save Feature As...**
+8. Right-click on *cb_2025_us_county_500k.shp* again to **Export > Save Feature As...**
 
  ![Save new layer as GeoJSON](graphics/ExportSaveAs.png)  
 
-9. 
+9. Right-click on *Tornado_Tracks_A,shp* and select **Filter**. Filter tornado paths for only KY by each year (2023, 2024, & 2025), that's why we added duplicate *Tornado_Track_A.shp*
 
-![Filter tornado paths for KY by year]()
+![Filter tornado paths for KY by year](graphics/KYtorYRfilter.png)
 
-
-You can also use some lists, and here's some formatting ideas.
-
-1. **Example bold**
-2. *Example italics*
-3. 
-4. 
 
 ### Map summary
 
