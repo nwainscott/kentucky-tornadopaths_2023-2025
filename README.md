@@ -69,7 +69,7 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 10. Right-click on each *Tornado_Track_A.shp* to **Export > Save Feature As...**
 
- ![Save new layer(s) as GeoJSON](graphics/Exportgeojson.png) 
+ ![Save new layer(s) as GeoJSON](graphics/SaveAs.png) 
 
  11. 
 
