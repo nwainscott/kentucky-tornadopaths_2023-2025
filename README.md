@@ -51,7 +51,7 @@ The purpose of this map is to display tornado paths throughout the state of Kent
   
 4. In the Browser pane, find the folder where you downloaded the files
 
-5. To add layers to map, double click on: *cb_2025_us_county_500k.shp*, then *Tornado_Tracks_A.shp*
+5. To add layers to map, double click on: *Annual_NLCD_LndCov_2025_CU_C1V2*, *cb_2025_us_county_500k.shp*, then *Tornado_Tracks_A.shp*
 
 6. Add *Tornado_Tracks_A.shp* 2 more times for a total of 3 tornado shapefiles
 
@@ -76,6 +76,8 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 ![Change symbology](graphics/symbologyex.png)
 
 
+
+![Change symbology](graphics/nlcdextract.png)
 
 12. Ensure that KY is taking up a majority of the map extent then go to **Project**, **New Print Layout**
 
