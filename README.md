@@ -67,7 +67,10 @@ The purpose of this map is to display tornado paths throughout the state of Kent
  ![Save new layer(s) as GeoJSON](graphics/SaveAs.png) 
 
  11. Now that you have KY counties and tornado paths for (2023-2025) displayed, you can start right-clicking on each layer separately, going to **Properties** then **Symbology**.
- 12. 
+
+![Change symbology](graphics/symbologyex.png)
+
+12. 
 
 ### Map summary
 
