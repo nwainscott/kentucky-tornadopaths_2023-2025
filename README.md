@@ -67,6 +67,8 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 ![Filter tornado paths for KY by year](graphics/KYtorYRfilter.png)
 
+10. Right-click on each *Tornado_Track_A.shp* to **Export > Save Feature As...**
+
 
 ### Map summary
 
