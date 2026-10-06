@@ -14,6 +14,8 @@
 
 ### Data Source
 
+- **Landcover**
+  
 - **Tornado Tracks** 
   (https://resilience-fema.hub.arcgis.com/datasets/e75412d18bdc469dbf89bf7e929475cc/explore?filters=eyJzdCI6WyJLWSJdfQ%3D%3D&location=38.040459%2C-84.617522%2C8&style=dy)
 
