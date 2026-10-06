@@ -75,7 +75,15 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 ### Map summary
 
-What are the key findings to take from your map and the overall mapmaking process?
+**Longest tornado path**
+- 2023, July 1 : 27.42 miles, magnitude 1
+- 2024, May 26 : 39.99 miles, magnitude 1
+- *2025, May 16 : 60.08 miles, magnitude 4*
+
+**Total tornados**
+- 2023 : 34
+- *2024 : 48*
+- 2025: 37
 
 ## Final Project Link
 
