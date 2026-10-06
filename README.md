@@ -29,9 +29,9 @@
 
   Scroll down to Counties, download the shapfile named 1:500,000 (national)
 
-* Initial Data projection:
+* Initial Data projection: In QGIS, I used EPSG:3089 - NAD83/Kentucky Single Zone (ftUS)
   
-* Final Map projection:
+* Final Map projection: In Mapbox, I had to use EPSG:4326-WGS 84
 
 ### Project Background
 
