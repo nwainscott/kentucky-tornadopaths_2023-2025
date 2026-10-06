@@ -15,16 +15,19 @@
 ### Data Source
 
 - **Landcover**
+  (https://www.sciencebase.gov/catalog/item/697b9279b66b0197c3043cc3)
+
+  Scroll down to **Attached Files**, click **...show more...**, download *“2025 LndCov data zip”*
   
 - **Tornado Tracks** 
   (https://resilience-fema.hub.arcgis.com/datasets/e75412d18bdc469dbf89bf7e929475cc/explore?filters=eyJzdCI6WyJLWSJdfQ%3D%3D&location=38.040459%2C-84.617522%2C8&style=dy)
 
-  Find the Filter Data button in the blue toolbar on the screen, filter for State Abbreviation Code (KY), click the download button from the same toolbar, download the Geopackage
+  Find the **Filter Data** button in the blue toolbar on the screen, filter for State Abbreviation Code (KY), click the download button from the same toolbar, download the Geopackage
 
 - **County Boundaries**
   (https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html)
 
-  Scroll down to Counties, download the shapfile named 1:500,000 (national)
+  Scroll down to **Counties**, download the shapefile named *1:500,000 (national)*
 
 * Initial Data projection: In QGIS, I used EPSG:3089 - NAD83/Kentucky Single Zone (ftUS)
   
@@ -32,11 +35,11 @@
 
 ### Project Background
 
-In recent decades, there has been a notable increase in severe weather events across the U.S. I was born and raised in Kentucky and thought it would be interesting to map the tornado paths from 2023-2025. 2026 data was unavailable. 
+There has been a notable increase in severe weather events across the U.S. I was born and raised in Kentucky and thought it would be interesting to map the tornado paths from 2023-2025. 2026 data was unavailable.
 
 ### Purpose
 
-The purpose of this map is to display tornado paths throughout the state of Kentucky from 2023-2025. I hope the map will help answer the following questions: Are tornados happening in a common location in the state? For example, are more happening in the North, South, Central, Eastern, or Western parts of KY? Is there a notable difference in length and magnitude of tornado paths over the years? 
+The purpose of this map is to display tornado paths throughout the state of Kentucky from 2023-2025. I hope the map will help answer the following questions: Are tornados happening in a common portion of the state? For example, are more happening in the North, South, Central, Eastern, or Western parts of KY? Is there a notable difference in length and magnitude of tornado paths over the years? What type of landcover is primary
 
 ### Mapmaking Process
 
@@ -71,6 +74,8 @@ The purpose of this map is to display tornado paths throughout the state of Kent
  11. Now that you have KY counties and tornado paths for (2023-2025) displayed, you can start right-clicking on each layer separately, going to **Properties** then changing the **Symbology** of each layer so that they are visible. I changed the colors of my tornado paths and increased the width of the lines to 0.66. 
 
 ![Change symbology](graphics/symbologyex.png)
+
+
 
 12. Ensure that KY is taking up a majority of the map extent then go to **Project**, **New Print Layout**
 
