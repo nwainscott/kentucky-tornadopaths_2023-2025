@@ -106,7 +106,9 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 18. Once you ensure that KY is taking up a majority of the map extent go to the Menu toolbar and click **Project > New Print Layout**
 
-![Print layout 1]()
+![Print layout 1](graphics/addmaplayout.png)
+
+
 
 
 ***
