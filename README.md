@@ -42,7 +42,6 @@
   
 * Final Map projection: EPSG:3089 - NAD83/Kentucky Single Zone (ftUS)
 
-
 ***
 
 ### Project Background
@@ -105,7 +104,10 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 17. In the example above, I changed the fill for KY counties to white, and changed the color for tornado paths by year and increased the width of the lines to 0.86. 
 
-18. Ensure that KY is taking up a majority of the map extent then go to **Project**, **New Print Layout**
+18. Once you ensure that KY is taking up a majority of the map extent go to the Menu toolbar and click **Project > New Print Layout**
+
+![Print layout 1]()
+
 
 ***
 
