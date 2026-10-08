@@ -104,9 +104,16 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 17. In the example above, I changed the fill for KY counties to white, and changed the color for tornado paths by year and increased the width of the lines to 0.86. 
 
-18. Once you ensure that KY is taking up a majority of the map extent go to the Menu toolbar and click **Project > New Print Layout**
+18. Once you ensure that KY is taking up a majority of the map extent go to the Menu toolbar and click **Project > New Print Layout** and add this first map to the page using the button shown below. 
 
-![Print layout 1]()
+![Print layout 1](graphics/addmaplayout.png)
+
+19. We need to lock the layers of this map on the layout so that we can add our second map next.
+
+![Lock layers]()
+
+
+
 
 
 ***
