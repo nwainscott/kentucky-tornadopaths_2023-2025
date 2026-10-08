@@ -91,7 +91,9 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 13. In the Menu Toolbar, click on **Raster > Extraction > Clip Raster by Mask Layer...**
 
-![Raster extraction]()
+![Raster extraction](graphics/raster.png)
+
+![Raster extraction input]()
 
 15. Now that you have KY counties and tornado paths for (2023-2025) displayed, you can start right-clicking on each layer separately, going to **Properties > Symbology**. Update the symbology so that each layer is visible and attractive to the eye. I changed the colors of my tornado paths and increased the width of the lines to 0.66. 
 
@@ -101,9 +103,7 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 ![Change symbology](graphics/nlcdextract.png)
 
-14. Ensure that KY is taking up a majority of the map extent then go to **Project**, **New Print Layout**
-
-15. 
+16. Ensure that KY is taking up a majority of the map extent then go to **Project**, **New Print Layout**
 
 ***
 
