@@ -30,19 +30,32 @@
   (https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html)
 
   Scroll down to **Counties**, download the shapefile named *1:500,000 (national)*
-  
 
+
+- **State Boundaries**
+  (https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2025&layergroup=States+%28and+equivalent%29)
+
+  Download national file
+  
+  
 * Initial Data projection: EPSG:3089 - NAD83/Kentucky Single Zone (ftUS)
   
-* Final Map projection:
+* Final Map projection: EPSG:3089 - NAD83/Kentucky Single Zone (ftUS)
+
+
+***
 
 ### Project Background
 
 There has been a notable increase in severe weather events across the U.S. I was born and raised in Kentucky and thought it would be interesting to map the tornado paths from 2023-2025. 2026 data was unavailable.
 
+***
+
 ### Purpose
 
 The purpose of this map is to display tornado paths throughout the state of Kentucky from 2023-2025. I hope the map will help answer the following questions: Are tornados happening in a common portion of the state? For example, are more happening in the North, South, Central, Eastern, or Western parts of KY? Is there a notable difference in tornado length of path and magnitude over the years? What type of landcover has been most effected?
+
+***
 
 ### Mapmaking Process
 
@@ -86,6 +99,8 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 13. 
 
+***
+
 ### Map summary
 
 **Longest tornado path**
@@ -103,6 +118,8 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 **Landcover**
 - 
+
+***
 
 ## Final Project Link
 
