@@ -101,11 +101,11 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 16. Ideally, our final product will be a 2-panel map, one of KY Tornado Paths (2023-2025) & one of KY Tornado Paths with Landcover (2023-2025). In order to achieve this, we'll need to first uncheck the clipped NLCD layer to hide it, then right-click on counties and subsequently all 3 tornado paths to go to **Properties > Symbology**
 
-18. 
+![Map 1 example](graphics/symbologyex.png)
 
-![]()
+17. In the example above, I changed the fill for KY counties to white, and changed the color for tornado paths by year and increased the width of the lines to 0.86. 
 
-17. Ensure that KY is taking up a majority of the map extent then go to **Project**, **New Print Layout**
+18. Ensure that KY is taking up a majority of the map extent then go to **Project**, **New Print Layout**
 
 ***
 
