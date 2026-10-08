@@ -97,11 +97,15 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 ![NLCD clip](graphics/nlcdclip.png)
 
-15. Now that you have KY counties and tornado paths for (2023-2025) displayed, you can start right-clicking on each layer separately, going to **Properties > Symbology**. Update the symbology so that each layer is visible and attractive to the eye. I changed the colors of my tornado paths and increased the width of the lines to 0.66. 
+15. Hopefully, your NLCD layer clipped to KY boundary as the image above shows. **Export > Save Feature As...** I saved as both a GeoTIFF and GeoPackage just to be safe
+
+16. Ideally, our final product will be a 2-panel map, one of KY Tornado Paths (2023-2025) & one of KY Tornado Paths with Landcover (2023-2025). In order to achieve this, we'll need to first uncheck the clipped NLCD layer to hide it, then right-click on counties and subsequently all 3 tornado paths to go to **Properties > Symbology**
+
+18. 
 
 ![]()
 
-16. Ensure that KY is taking up a majority of the map extent then go to **Project**, **New Print Layout**
+17. Ensure that KY is taking up a majority of the map extent then go to **Project**, **New Print Layout**
 
 ***
 
