@@ -116,7 +116,9 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 21. You can now go back to the layout page and add this map to the layout.
 
-![Layout]()
+![Layout](graphics/layoutbefore.png)
+
+
 
 
 ***
