@@ -110,7 +110,9 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 19. We need to lock the layers of this map on the layout so that we can add our second map next.
 
-![Lock layers]()
+![Lock layers](graphics/locklayers.png)
+
+20. 
 
 
 
