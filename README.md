@@ -59,15 +59,15 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 ### Mapmaking Process
 
-1. Download the 3 files mentioned in [Data Source](#data-source) (extract any zip files)
+1. Download the 4 files mentioned in [Data Source](#data-source) (extract any zip files)
 
 2. Open QGIS
 
-3. Click on **Project > Properties...** change the **CRS** to EPSG:3089 - NAD83/Kentucky Single Zone (ftUS)
+3. Click on **Project > Properties...** change the **CRS** to *EPSG:3089 - NAD83/Kentucky Single Zone (ftUS)* since our area of interest is Kentucky
   
 4. In the Browser pane, find the folder where you downloaded the files
 
-5. To add layers to map, double click on: *Annual_NLCD_LndCov_2025_CU_C1V2*, *cb_2025_us_county_500k.shp*, then *Tornado_Tracks_A.shp*
+5. To add layers to map, double click on: *Annual_NLCD_LndCov_2025_CU_C1V2*, *cb_2025_us_county_500k.shp*, *tl_2025_us_state.shp*, then *Tornado_Tracks_A.shp*
 
 6. Add *Tornado_Tracks_A.shp* 2 more times for a total of 3 tornado shapefiles
 
@@ -75,19 +75,19 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 ![Filter counties for KY](graphics/KYcofilter.png)
 
-8. Right-click on *cb_2025_us_county_500k.shp* again to **Export > Save Feature As...**
+8. Right-click on *cb_2025_us_county_500k.shp* again to **Export > Save Feature As...** GeoJSON
 
  ![Save new layer as GeoJSON](graphics/ExportSaveAs.png)  
 
-9. Right-click on *Tornado_Tracks_A.shp* and select **Filter**. Follow the screenshot below to filter tornado paths for KY by each year (2023, 2024, & 2025), that's why we added duplicate *Tornado_Track_A.shp*
+8. Right-click on *tl_2025_us_state.shp* and select **Filter**. Filter for state name Kentucky and **Export > Save Feature As...** GeoJSON 
+
+9. Right-click on *Tornado_Tracks_A.shp* and select **Filter**. Follow the screenshot below to filter tornado paths for KY by each year (2023, 2024, & 2025), that's why we added duplicate *Tornado_Track_A.shp* layers
 
 ![Filter tornado paths for KY by year](graphics/KYtorYRfilter.png)
 
-10. Right-click on each *Tornado_Track_A.shp* to **Export > Save Feature As...** In order to upload the tornado GeoJSON's to Mapbox later, we need to save as EPSG:4326-WGS 84
+10. Right-click on each *Tornado_Track_A.shp* to **Export > Save Feature As...** GeoJSON
 
- ![Save new layer(s) as GeoJSON](graphics/SaveAs.png) 
-
- 11. Now that you have KY counties and tornado paths for (2023-2025) displayed, you can start right-clicking on each layer separately, going to **Properties > Symbology**. Update the symbology so that each layer is visible and attractive to the eye. I changed the colors of my tornado paths and increased the width of the lines to 0.66. 
+11. Now that you have KY counties and tornado paths for (2023-2025) displayed, you can start right-clicking on each layer separately, going to **Properties > Symbology**. Update the symbology so that each layer is visible and attractive to the eye. I changed the colors of my tornado paths and increased the width of the lines to 0.66. 
 
 ![Change symbology](graphics/nlcdnoclip.png)
 
