@@ -118,9 +118,11 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 ![Layout](graphics/layoutbefore.png)
 
-22. Add a legend and title for each map. Add only 1 north arrow, scale bar, metadata text.
+22. Add a legend and title for each map. Add only 1 north arrow, 1 scale bar, and 1 metadata textbox. Organize the 2-panel map layout in a balanced and visually appealing way. 
 
-23. 
+23. In the end, the map should look similar to the example image below.
+
+![2 panel]()
 
 
 ***
