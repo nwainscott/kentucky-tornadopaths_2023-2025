@@ -124,6 +124,14 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 ![2 panel](graphics/endresult.png)
 
+24. Go to **Layout > Layout Properties** and change the export resolution to 600 dpi
+
+25. Go to **Layout > Export As Image...**, save as a .png with an export resolution of 600 dpi
+
+26. Repeat Step 25, except change the export resolution to 1200 dpi
+
+27. 
+
 
 
 
