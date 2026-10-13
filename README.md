@@ -148,7 +148,7 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 - Most tornado activity appears to be in the Western and Central portions of the state. These areas tend to be flatter, whereas you travel east across KY, you get into the Cumberland Plateau region where topography changes becoming hillier and mountainous just before the Appalachian Mountain range. 
 
 **Landcover**
-- Ideally, I would have liked to perform further geoprocessing to determine the type of landcover most effected by tornados; however, I wasn't sure if there was Raster Analysis tool equivalent to the Vector Geoprocessing tool Intersection. I would have liked to see what type of landcover was most intersected by the paths of tornados to give a statistically accurate answer. We can still look at the KY map with landcover and speculate the landcover primarily effected by tornados. From (2023-2025), I would say that ***Pasture/Hay & Cultivated Crops*** was the landcover types most effected by tornados, followed by ***Deciduous Forest***. 
+- Ideally, I would have liked to perform further geoprocessing to determine the type of landcover most effected by tornados; however, I wasn't sure if there was Raster Analysis tool equivalent to the Vector Geoprocessing tool Intersection. I would have liked to see what type of landcover was most intersected by the paths of tornados to give a statistically accurate answer. We can still look at the KY map with landcover and speculate the landcover primarily effected by tornados. From (2023-2025), I would say that ***Pasture/Hay & Cultivated Crops*** were the landcover types most effected by tornados, followed by ***Deciduous Forest***. 
 
 ***
 
