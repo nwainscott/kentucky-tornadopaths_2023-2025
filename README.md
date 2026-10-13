@@ -112,13 +112,15 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 ![Lock layers](graphics/locklayers.png)
 
-20. Once the layers on the layout are locked. Go back to the map extent and check (show) the NLCD clip layer and change the symbology of the counties layer so that the fill is transparent and only black county outlines remain.
+20. Once the first map on the layout is locked. Go back to the map extent and check (show) the NLCD clip layer and change the symbology of the counties layer so that the fill is transparent with black county outlines remaining. 
 
-21. You can now go back to the layout page and add this map to the layout.
+21. Go back to the layout page and add this second map to the layout. Lock the layers for this map as well. 
 
 ![Layout](graphics/layoutbefore.png)
 
+22. Add a legend and title for each map. Add only 1 north arrow, scale bar, metadata text.
 
+23. 
 
 
 ***
