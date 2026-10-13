@@ -122,7 +122,9 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 23. In the end, the map should look similar to the example image below.
 
-![2 panel]()
+![2 panel](graphics/endresult.png)
+
+
 
 
 ***
