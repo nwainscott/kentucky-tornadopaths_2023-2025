@@ -130,11 +130,6 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 26. Repeat Step 25, except change the export resolution to 1200 dpi
 
-27. 
-
-
-
-
 ***
 
 ### Map summary
@@ -142,23 +137,25 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 **Longest tornado path**
 - 2023, July 1 : 27.42 miles, magnitude 1
 - 2024, May 26 : 39.99 miles, magnitude 1
-- *2025, May 16 : 60.08 miles, magnitude 4*
+- ***2025, May 16 : 60.08 miles, magnitude 4***
 
 **Total tornados**
 - 2023 : 34
-- *2024 : 48*
+- ***2024 : 48***
 - 2025: 37
 
 **Tornado location**
 - Most tornado activity appears to be in the Western and Central portions of the state. These areas tend to be flatter, whereas you travel east across KY, you get into the Cumberland Plateau region where topography changes becoming hillier and mountainous just before the Appalachian Mountain range. 
 
 **Landcover**
-- 
+- Ideally, I would have liked to perform further geoprocessing to determine the type of landcover most effected by tornados; however, I wasn't sure if there was Raster Analysis tool equivalent to the Vector Geoprocessing tool Intersection. I would have liked to see what type of landcover was most intersected by the paths of tornados to give a statistically accurate answer. We can still look at the KY map with landcover and speculate the landcover primarily effected by tornados. From (2023-2025), I would say that ***Pasture/Hay & Cultivated Crops*** was the landcover types most effected by tornados, followed by ***Deciduous Forest***. 
 
 ***
 
 ## Final Project Link
 
 Here you are linking from the README.md to the index.html.
+
+map-options/two-column/index.html
 
 Please view the [final map online](www.github...)
