@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset=utf-8 />
+  <title>Webpage: Kentucky Tornados (2023-2025)</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.css" />
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: #d3d3d3;
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 400;
+      color: #3d3d3d;
+    }
+
+    section {
+      width: 80%;
+      margin: 10px auto;
+    }
+
+    h1 {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 300;
+      font-size: 2.5em;
+      /* The em unit. 2.5x the current size */
+      letter-spacing: .04em;
+      text-transform: uppercase;
+    }
+
+    h2 {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 700;
+      color: gray;
+      font-size: 1.25em;
+      letter-spacing: .04em;
+    }
+
+    p {
+      font-size: 1em;
+      line-height: 1.5em;
+    }
+
+    a {
+      color: #005daa;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    li {
+      margin: 10px 0
+    }
+
+    #map {
+      width: 100%;
+      margin: 0px auto;
+
+    }
+
+    .max-image-width {
+      width: 100%;
+    }
+
+
+    .linkbox {
+      margin: 3px 0 20px 0;
+      display: block;
+      font-weight: 300;
+    }
+
+    hr {
+      border: 0px;
+      border-bottom: 1px solid #3d3d3d;
+      padding-top: 20px;
+    }
+
+    /* Use float property to make two-column layout. */
+
+    .first-column {
+      float: left;
+      width: 48%;
+      padding-right: 20px;
+    }
+
+    .column {
+      float: left;
+      width: 48%;
+    }
+
+    /* Clear floats after the columns */
+
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    /* When browser is 800px wide or less */
+
+    @media screen and (max-width: 800px) {
+      .first-column,
+      .column {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Add map to top of page and make it stretch to fill browser window. -->/>
+  <img class="max-image-width" src="https://github.com/nwainscott/kentucky-tornadopaths_2023-2025/blob/main/maps_webpage/FinalKYtornado600dpi.png">
+
+  <!-- Create a two column layout for map information. -->
+  <section>
+    <a href='https://github.com/nwainscott/kentucky-tornadopaths_2023-2025/blob/main/maps_webpage/FinalKYtornado600dpi.png' class="linkbox">Full screen version</a>
+
+    <h1>Kentucky Tornado Paths (2023-2025)</h1>
+    <h2>Authored by: Natalie Wainscott</h2>
+
+    <div class="row">
+      
+      <!-- First column, the left half -->
+      <div class="first-column">
+        <p>There has been a notable increase in severe weather events across the U.S. I was born and raised in Kentucky and thought it would be interesting to map the tornado paths from 2023-2025. 2026 data was unavailable.
+The purpose of this map is to display tornado paths throughout the state of Kentucky from 2023-2025. I hope the map will help answer the following questions: Are tornados happening in a common portion of the state? For example, are more happening in the North, South, Central, Eastern, or Western parts of KY? Is there a notable difference in tornado path length and magnitude over the years? What type of landcover has been most effected? </p>
+        <p>Some other info including the <a href="path/to/geojson">link to the GeoJSON</a></p>
+      </div>
+      
+      <!-- Second column, the right half -->
+      <div class="column">
+        <!-- Challenge map -->
+        <img class="max-image-width" src="https://github.com/nwainscott/kentucky-tornadopaths_2023-2025/blob/main/maps_webpage/FinalKYtornado600dpi.png" alt="Map of Kentucky Tornado Paths (2023-2025)">
+        <p class="linkbox">Export resolution: 600 dpi</p>
+
+        <!-- Challenge photograph -->
+        <img class="max-image-width" src="https://github.com/nwainscott/kentucky-tornadopaths_2023-2025/blob/main/maps_webpage/FinalKYtornado1200dpi.png">
+        <p class="linkbox">Export resolution: 1200 dpi</p>
+
+      </div>
+    </div>
+
+    <h3>Map details</h3>
+    <p>This map was created with QGIS 4.2.1.</p>
+    <p></p>Landcover (https://www.sciencebase.gov/catalog/item/697b9279b66b0197c3043cc3)</p>
+    <p>Tornado Tracks (https://resilience-fema.hub.arcgis.com/datasets/e75412d18bdc469dbf89bf7e929475cc/explore?filters=eyJzdCI6WyJLWSJdfQ%3D%3D&location=38.040459%2C-84.617522%2C8&style=dy)</p>
+    <p></p>County Boundaries (https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html)</p>
+    <p>State Boundaries (https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2025&layergroup=States+%28and+equivalent%29)</p>
+
+<p>Final Map projection: EPSG:3089 - NAD83/Kentucky Single Zone (ftUS)</p>
+
+    <p>
+      University of Kentucky New Maps Plus, Fall 2026.
+    </p>
+    <hr>
+    <ul>
+      <li>Visit my Github account <a href='https://github.com/nwainscott'</a> </li>
+      <li><a href="https://newmapsplus.github.io">New Maps Plus</a></li>
+    </ul>
+  </section>
+
+</body>
+</html>
