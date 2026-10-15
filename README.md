@@ -52,7 +52,7 @@ There has been a notable increase in severe weather events across the U.S. I was
 
 ### Purpose
 
-The purpose of this map is to display tornado paths throughout the state of Kentucky from 2023-2025. I hope the map will help answer the following questions: Are tornados happening in a common portion of the state? For example, are more happening in the North, South, Central, Eastern, or Western parts of KY? Is there a notable difference in tornado length of path and magnitude over the years? What type of landcover has been most effected?
+The purpose of this map is to display tornado paths throughout the state of Kentucky from 2023-2025. I hope the map will help answer the following questions: Are tornados happening in a common portion of the state? For example, are more happening in the North, South, Central, Eastern, or Western parts of KY? Is there a notable difference in tornado path length and magnitude over the years? What type of landcover has been most effected?
 
 ***
 
