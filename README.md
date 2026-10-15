@@ -156,4 +156,4 @@ The purpose of this map is to display tornado paths throughout the state of Kent
 
 **Link to index.html** (https://github.com/nwainscott/kentucky-tornadopaths_2023-2025/blob/main/maps_webpage/index.html) 
 
-Please view the [final map online](www.github...)
+Please view the [final map online](http://127.0.0.1:5500/maps_webpage/index.html)
